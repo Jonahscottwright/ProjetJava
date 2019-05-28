@@ -15,16 +15,16 @@ import entity.Sprite;
 public class MyVehicle extends Mobile {
 
     /** The Constant SPRITE. */
-    private static final Sprite sprite          = new Sprite('H', "MyVehicle.png");
+    private static final Sprite sprite          = new Sprite('S', "MyPerso.png");
 
     /** The Constant spriteTurnLeft. */
-    private static final Sprite spriteTurnLeft  = new Sprite('H', "MyVehicleLeft.png");
+    private static final Sprite spriteTurnLeft  = new Sprite('S', "MyPersoLeft.png");
 
     /** The Constant spriteTurnRight. */
-    private static final Sprite spriteTurnRight = new Sprite('H', "MyVehicleRight.png");
+    private static final Sprite spriteTurnRight = new Sprite('S', "MyPersoRight.png");
 
     /** The Constant spriteExplode. */
-    private static final Sprite spriteExplode   = new Sprite('H', "MyVehicleExplode.png");
+    private static final Sprite spriteExplode   = new Sprite('S', "MyPersoDead.png");
 
     /**
      * Instantiates a new my vehicle.
