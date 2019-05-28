@@ -2,6 +2,6 @@
 
 Project group :
 * Jonah W : Jonahscottwright
-* Lucas B : 
+* Lucas B : Tarmire 
 * Arnaud S :
 * Arnaud P : Wolflyx
