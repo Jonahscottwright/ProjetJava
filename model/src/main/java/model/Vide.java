@@ -18,6 +18,6 @@ public class Vide extends MotionlessElement {
      * Instantiates a new ditchLeft.
      */
     public Vide() {
-        super(SPRITE, Permeability.BLOCKING);
+        super(SPRITE, Permeability.PENETRABLE);
     }
 }

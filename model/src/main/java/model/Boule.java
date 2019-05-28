@@ -1,7 +1,7 @@
 package model;
 
 import fr.exia.insanevehicles.model.element.Permeability;
-import fr.exia.insanevehicles.model.element.Sprite;
+import entity.Sprite;
 
 /**
  * <h1>The DitchLeft Class.</h1>

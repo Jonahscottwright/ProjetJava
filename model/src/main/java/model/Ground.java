@@ -18,6 +18,6 @@ class Ground extends MotionlessElement {
      * Instantiates a new ditchLeft.
      */
     Ground() {
-        super(SPRITE, Permeability.BLOCKING);
+        super(SPRITE, Permeability.PENETRABLE);
     }
 }
